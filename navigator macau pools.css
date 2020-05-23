@@ -199,7 +199,6 @@ header nav .navbar-nav .active > .nav-link, header nav .navbar-nav a:hover{
 }
 .nav-bottom .nav-link.active, .nav-bottom .nav-link.active:focus{
     background-color: #fbd116;
-	background-size: auto;
 }
 .nav-bottom > .active > a, .nav-bottom > .active > a:hover, .nav-bottom > .active > a:focus {
     color: #555555;
@@ -301,14 +300,3 @@ footer a:hover{
     font-weight: 600;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
